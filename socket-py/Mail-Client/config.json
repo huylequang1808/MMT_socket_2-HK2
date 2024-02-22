@@ -1,0 +1,31 @@
+{
+  "userName": "Quang Huy",
+  "userMail": "huylequang1014@gmail.com",
+  "serverName": "127.0.0.1",
+  "smtpPort": 2225,
+  "pop3Port": 3335,
+  "path": "D:\\Socket\\socket-py\\mailBoxClient\\unread\\Inbox",
+  "intervalMinutes": 30,
+  "filterMailList": [],
+  "filterSubjectList": [],
+  "filterContentList": [
+    "huyle"
+  ],
+  "filterSpamList": [],
+  "specialCodes": [
+    "20231212221314766.msg",
+    "20231213022706223.msg",
+    "20231213141945795.msg",
+    "20231213151654991.msg",
+    "20231213152454857.msg",
+    "20231214002440067.msg",
+    "20231214075745543.msg",
+    "20231214122500461.msg",
+    "20231215115236533.msg",
+    "20231215131734999.msg",
+    "20231215153857215.msg",
+    "20231215181905169.msg",
+    "20231215182143007.msg",
+    "20240107092356026.msg"
+  ]
+}
